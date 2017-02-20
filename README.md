@@ -15,3 +15,7 @@ git push -u origin master
 On a new comp to download repo use above workflow
 To pull down new files/info in same repo use
 ~~~git pull origin master
+~~~
+
+#Notes
+Important that you enter into the right directory before "git init". When you git pull on a repo it will deposit everything into the initiated file that your in.
