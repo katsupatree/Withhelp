@@ -19,3 +19,6 @@ To pull down new files/info in same repo use
 
 #Notes
 Important that you enter into the right directory before "git init". When you git pull on a repo it will deposit everything into the initiated file that your in.
+
+
+This is the 3rd comp I have worked on with vaired success.
